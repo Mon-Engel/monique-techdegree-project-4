@@ -1,0 +1,33 @@
+/* ============================================= */
+/*                VARIABLES                      */
+/* ============================================= */
+
+// Main colors -------------------- /
+$color-primary: #58e1c1;
+$color-primary-lighten: lighten($color-primary, 15%);
+
+$color-secondary: #51ddfc;
+$color-secondary-lighten: lighten($color-secondary, 15%);
+
+$color-text: #777;
+
+
+// Name that color: https://chir.ag/projects/name-that-color/ -------------------- /
+$white: #fff;
+
+$purple-mountains-majesty: #927bc1;
+$purple-mountains-majesty-lighten: lighten($purple-mountains-majesty, 15%);
+
+$coral: #fd7856;
+$coral-lighten: lighten($coral, 15%);
+
+$sunglo: #e4757a;
+$sunglo-lighten: lighten($sunglo, 15%);
+
+$emerald: #63cc82; 
+$emerald-lighten: lighten($emerald, 15%);
+
+
+// MEDIA QUERY -------------------- /
+$media-break-narrow: '(min-width: 768px)';
+

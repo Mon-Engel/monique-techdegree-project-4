@@ -1,0 +1,10 @@
+
+/* ============================================= */
+/*                  MIXINS                       */
+/* ============================================= */
+
+@mixin block-auto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
